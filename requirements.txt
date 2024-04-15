@@ -1,0 +1,13 @@
+tensorflow
+keras
+pandas
+numpy
+jupyter 
+notebook
+tqdm
+opencv-contrib-python
+pickle-mixin
+streamlit
+streamlit-option-menu
+scikit-learn
+opencv-python    
